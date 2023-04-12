@@ -1,13 +1,13 @@
 <p align="center">
   <br>
-  <!-- <img src="https://user-images.githubusercontent.com/72565083/231440900-7c2089bf-1544-480c-a63a-02ca054b1794.png" alt='프로젝트 로고' width='900px'> -->
+  <img src="https://user-images.githubusercontent.com/72565083/231440900-7c2089bf-1544-480c-a63a-02ca054b1794.png" alt='프로젝트 로고' width='800px'>
   <br>
   <p align='right'>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinjoeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </p>
 </p>
 
-## 🦁 프로젝트 소개
+## 📕 프로젝트 소개
 
 <div align="left">
   <div>MZ세대의 문화가 빠르게 변화함에 따라 신조어 트렌드를 한눈에 확인할 수 있는 서비스 입니다.</div>
@@ -102,11 +102,6 @@
 
 ### 3. 작성 페이지
 <img width="1440" alt="작성페이지" src="https://user-images.githubusercontent.com/90851865/231435820-eb400f9f-3a68-45e7-831b-8bea94e1474b.png">
-
-
-
-
-
 
 ## ✨ 주요 기능
 
