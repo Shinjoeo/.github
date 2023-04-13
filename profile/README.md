@@ -23,10 +23,10 @@
 ## 🧑‍💻 팀원 소개
 
 ### Front-end
-| 이름 | 박규현 | 안재현 | 이수화 |
+| 이름 | 안재현 | 이수화 | 이태헌 |
 | :------------: | :------------: | :-----------: |  :------------: | 
-|  | <img src="https://user-images.githubusercontent.com/72565083/231422017-b00c5eb1-88e6-44dd-b7c3-3aa92fe88853.png" width="100"/> | <img src="https://user-images.githubusercontent.com/72565083/231421315-b32e29ce-563f-4ae2-8b72-c43fc46ddba4.png" width="100"/> | <img src="https://user-images.githubusercontent.com/72565083/230766777-d4f9acb2-b752-47e8-8011-fb354328ff2c.png" width="100"/> |
-| 깃허브 | [@freemoon99](https://github.com/freemoon99) | [@JaeHyunGround](https://github.com/JaeHyunGround) | [@rosielsh](https://github.com/rosielsh)|
+|  | <img src="https://user-images.githubusercontent.com/72565083/231421315-b32e29ce-563f-4ae2-8b72-c43fc46ddba4.png" width="100"/> | <img src="https://user-images.githubusercontent.com/72565083/230766777-d4f9acb2-b752-47e8-8011-fb354328ff2c.png" width="100"/> | <img src="https://user-images.githubusercontent.com/72565083/231687888-b84627ce-2266-43a5-93c1-fff5291ba511.png" width="100"/>
+| 깃허브 | [@JaeHyunGround](https://github.com/JaeHyunGround) | [@rosielsh](https://github.com/rosielsh) | [@forever2969](https://github.com/forever2969)
 
 ### Back-end
 | 이름 |  안현진  | 이서현 | 최영민 |
@@ -95,13 +95,21 @@
 ## 📖 화면 구성
 
 ### 1. 스플래시
-<img width="1440" alt="스플래시" src="https://user-images.githubusercontent.com/90851865/231435218-e4ee3673-b519-49a7-8e1d-e8eb47852d19.png">
+| web | mobile |
+| ---- | ---- |
+| <img width="800" alt="스플래시_웹" src="https://user-images.githubusercontent.com/90851865/231435218-e4ee3673-b519-49a7-8e1d-e8eb47852d19.png"> | <img width="200" alt="스플래시_모바일" src="https://user-images.githubusercontent.com/72565083/231689119-4c881b61-e15b-4c31-ad8c-b3a71cfd8840.png"> |
 
 ### 2. 메인 페이지
-<img width="1440" alt="메인페이지" src="https://user-images.githubusercontent.com/90851865/231435776-fa86a26f-1056-47d8-b426-86ec0ce0df95.png">
+| web | mobile |
+| ---- | ---- |
+| <img width="800" alt="메인페이지_웹" src="https://user-images.githubusercontent.com/90851865/231435776-fa86a26f-1056-47d8-b426-86ec0ce0df95.png"> | <img width="200" alt="메인페이지_모바일" src="https://user-images.githubusercontent.com/72565083/231692070-efeb3cf0-ebb1-4499-949d-1eed7cf112dc.png"> |
+
 
 ### 3. 작성 페이지
-<img width="1440" alt="작성페이지" src="https://user-images.githubusercontent.com/90851865/231435820-eb400f9f-3a68-45e7-831b-8bea94e1474b.png">
+| web | mobile |
+| ---- | ---- |
+| <img width="800" alt="작성페이지_웹" src="https://user-images.githubusercontent.com/90851865/231435820-eb400f9f-3a68-45e7-831b-8bea94e1474b.png"> | <img width="200" alt="작성페이지_모바일" src="https://user-images.githubusercontent.com/72565083/231692723-d33b2c75-f544-49bb-a028-0b659adddcf4.png"> |
+
 
 ## ✨ 주요 기능
 
